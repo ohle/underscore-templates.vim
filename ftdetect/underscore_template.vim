@@ -1,2 +1,2 @@
-au BufRead,BufNewFile *.mtpl set filetype=html
-au BufRead,BufNewFile *.mtpl set syntax=underscore_template
+au BufRead,BufNewFile *.mtpl,*.ejs set filetype=html
+au BufRead,BufNewFile *.mtpl,*.ejs set syntax=underscore_template
